@@ -11,12 +11,6 @@ Note : it must be launched right after the configuration microservice (config-se
 1. Java 17
 2. Maven 3.8.6
 
-
-#Dependencies
-1. spring-cloud-starter-netflix-eureka-server
-2. spring-boot-starter-test
-
-
 #Build
 command line : mvn clean install (see jenkinsfile)
 
