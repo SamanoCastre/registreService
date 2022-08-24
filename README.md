@@ -1,8 +1,8 @@
 # Title of the project #
-registre Service (Eureka)
+registre-Service (Eureka)
 
 # Description of the project
-Registre service is the microservice in which all the other microservices will register in order to make them available to the other microservices.
+Registre-service is the microservice in which all the other microservices will register in order to make them available to the other microservices.
 
 Note : it must be launched right after the configuration microservice (config-service) has been launched.
 
